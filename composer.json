@@ -16,6 +16,8 @@
     "require": {
         "react/socket": "^0.7",
         "react/stream": "^0.6",
-        "react/socket-client": "^0.7"
+        "react/socket-client": "^0.7",
+        "zendframework/zend-http": "^2.6",
+        "zendframework/zend-log": "^2.9"
     }
 }
