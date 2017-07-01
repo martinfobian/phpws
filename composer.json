@@ -14,8 +14,8 @@
         }
     },
     "require": {
-        "react/socket": "^0.7.*",
-        "react/stream": "^0.6.*",
-        "react/socket-client": "^0.7.*"
+        "react/socket": "^0.7",
+        "react/stream": "^0.6",
+        "react/socket-client": "^0.7"
     }
 }
